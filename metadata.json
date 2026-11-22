@@ -1,0 +1,8 @@
+{
+  "name": "Remix StudyLeaf",
+  "description": "A modern green and white Study Habit Tracker app for students with task management, Pomodoro focus timer, daily 1-hour goals, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
